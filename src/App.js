@@ -14,7 +14,7 @@ export default function App() {
           <div className="metadata">
             <span className="date"> Today at 6:00PM</span>
           </div>
-          <div className="text"> Nice Blog post!</div>
+          <div className="text"> Hi, This is a Nice Blog post!</div>
         </div>
       </div>
     </div>
